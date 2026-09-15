@@ -16,19 +16,19 @@
 
 export const business = {
   /* ── Identity ───────────────────────────────────────────── */
-  name: "M3 Cafe & Restaurant",
-  tagline: "Premium Pure Veg Family Restaurant & Café",
+  name: "Utkarsh Palace & Restaurant",
+  tagline: "Luxury Hotel, Family Restaurant & Banquet",
   description:
     // "A premium multi-cuisine family restaurant in Ayodhya offering elegant dining, authentic Indian flavours, and a comfortable atmosphere for families, celebrations, and guests.",
     "Experience authentic North Indian, Chinese and Café favourites in a modern fine-dining atmosphere. Perfect for families, birthdays, celebrations and casual dining in the heart of Ayodhya.",
   
   
     /* ── Contact ────────────────────────────────────────────── */
-  whatsapp: "9598674669",       // Country code + number, no +
-  phone: "+91 95986 74669",
+  whatsapp: "6393700016",       // Country code + number, no +
+  phone: "+91 95986 6393700016",
   email: "m3cafe2022@gmail.com",
-  address: "7/3/6 Shakti Nagar, Smart Bazar Road, Near Smart Bazaar, Deokali, Ayodhya, Uttar Pradesh 224123",
-  maps: "https://www.google.com/maps/place/M3+Cafe+%26+Restaurant/@26.7717516,82.1632831,17z/data=!4m15!1m8!3m7!1s0x399a07f11eff5b77:0xdb16225f27139076!2sM3+Cafe+%26+Restaurant!8m2!3d26.7717516!4d82.1632831!10e5!16s%2Fg%2F11pz01ph2l!3m5!1s0x399a07f11eff5b77:0xdb16225f27139076!8m2!3d26.7717516!4d82.1632831!16s%2Fg%2F11pz01ph2l?entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D",
+  address: "Near Suryadwar, Dharam Chowk Multilevel Parking, Karsewakpuram, Ayodhya, Uttar Pradesh 224123",
+  maps: "https://www.google.com/maps/place/Utkarsh+Palace+%26+Restaurant/@26.7988369,82.2215957,73m/data=!3m1!1e3!4m9!3m8!1s0x3990a958e1486273:0x5580aa3014d01087!5m2!4m1!1i2!8m2!3d26.7988887!4d82.2216146!16s%2Fg%2F11yxd5_j03?entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D",
 
   /* ── Branding ───────────────────────────────────────────── */
   // Replace with the client's hosted logo URL
