@@ -367,7 +367,7 @@ export default function CartSidebar({
                 <button
                   id="place-order-btn"
                   onClick={handleOrder}
-                  className="w-full btn-primary justify-center py-3.5"
+                  className="w-full bg-green-500 rounded-2xl justify-center py-3.5"
                 >
                   Place Order via WhatsApp
                 </button>

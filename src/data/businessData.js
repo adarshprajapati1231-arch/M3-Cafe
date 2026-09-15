@@ -35,8 +35,8 @@ export const business = {
   logo: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=120&h=120&fit=crop&auto=format",
   // Full-width hero background (1920x1080 recommended)
   heroImage:
-    // "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=1920&h=1080&fit=crop&auto=format",
-    "https://content.jdmagicbox.com/v2/comp/ayodhya/y4/9999p5278.5278.250422034207.v1y4/catalogue/the-ayodhya-mahal-awadhpuri-colony-ayodhya-restaurants-6vog250wlm.jpg?imwidth=463.3333333333333",
+    "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=1920&h=1080&fit=crop&auto=format",
+    // "https://content.jdmagicbox.com/v2/comp/ayodhya/y4/9999p5278.5278.250422034207.v1y4/catalogue/the-ayodhya-mahal-awadhpuri-colony-ayodhya-restaurants-6vog250wlm.jpg?imwidth=463.3333333333333",
 
   /* ── Operations ─────────────────────────────────────────── */
   openingHours: "11 AM – 11 PM",
